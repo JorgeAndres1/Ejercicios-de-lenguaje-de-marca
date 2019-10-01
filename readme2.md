@@ -7,3 +7,8 @@ La informática, también llamada computación, es una ciencia que administra m�
   * Mas informacion
 
 ![GitHub Logo](LOGOINFORMATICA.jpg)
+
+GUIA1 | GUIA2
+------------ | -------------
+TEMA 1A | TEMA 2B
+TEMA 1A | TEMA 2B
