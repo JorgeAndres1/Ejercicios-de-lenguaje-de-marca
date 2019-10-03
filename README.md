@@ -13,4 +13,12 @@ GUIA1 | GUIA2
 TEMA 1A | TEMA 2B
 TEMA 1A | TEMA 2B
 
+*This text will be italic*
+_This will also be italic_
+
+**texto de prueba**
+__texto de prueba__
+
+_Holaa **Jorge** como estas?_
+
 ![GitHub Logo](https://www.imagen.com.mx/assets/img/imagen_share.png)
