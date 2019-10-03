@@ -12,3 +12,5 @@ GUIA1 | GUIA2
 ------------ | -------------
 TEMA 1A | TEMA 2B
 TEMA 1A | TEMA 2B
+
+![GitHub Logo](https://www.imagen.com.mx/assets/img/imagen_share.png)
