@@ -13,8 +13,8 @@ GUIA1 | GUIA2
 TEMA 1A | TEMA 2B
 TEMA 1A | TEMA 2B
 
-*This text will be italic*
-_This will also be italic_
+*Cursiva*
+_otra forma de hacer cursiva_
 
 **texto de prueba**
 __texto de prueba__
