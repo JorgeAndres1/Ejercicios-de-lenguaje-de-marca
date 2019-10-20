@@ -11,7 +11,7 @@
 <p>párrafo siguiente encabezado nivel 4</p>
 <h5>NIVEL 5</h5>
 <p>párrafo siguiente encabezado nivel 5</p>
-<h6>TNIVEL 6</h6>
+<h6>NIVEL 6</h6>
  <p>párrafo siguiente encabezado nivel 6</p>
 </body>
 </html>
