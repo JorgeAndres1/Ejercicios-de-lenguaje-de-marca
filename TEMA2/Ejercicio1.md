@@ -4,5 +4,14 @@
 <h1>HTML</h1>
 <h2>Introduccion</h2> 
 <p>HTML, siglas en inglés de <strong>HyperText Markup Language</strong>(‘lenguaje de marcas de hipertexto’), hace referencia al lenguaje de marcado para la elaboración de páginas web. Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros.</p>
+  
+<p>Primeras especificaciones
+Tim Berners-Lee  en 1991 describe 18 elementos que incluyen el diseño inicial y relativamente simple de HTML. Trece de estos elementos todavía existen en HTML 4. </p>
+<style>
+cite {font-style: italic;}
+</style>
+
+<p>Fuente: <cite>Wikipedia</cite> </p>
+
 </body>
 </html>
