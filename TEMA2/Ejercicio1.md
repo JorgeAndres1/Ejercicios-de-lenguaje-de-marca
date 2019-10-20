@@ -8,7 +8,9 @@
 <p>Primeras especificaciones
 Tim Berners-Lee  en 1991 describe 18 elementos que incluyen el diseño inicial y relativamente simple de HTML. Trece de estos elementos todavía existen en HTML 4. </p>
 <style>
-cite {font-style: italic;}
+cite { 
+  font-style: italic;
+}
 </style>
 
 <p>Fuente: <cite>Wikipedia</cite> </p>
