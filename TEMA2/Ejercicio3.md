@@ -15,3 +15,5 @@
 <p><h2>Experiencia laboral</h2>
 2004-2019:<strong>Diseño web</strong><br/>
 2000-2004:<strong>Colaboración con diversas ONGs</strong><br/></p>
+</body>
+</html>
