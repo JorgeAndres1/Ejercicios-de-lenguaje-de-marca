@@ -10,3 +10,5 @@ Ejercicio1 |[Crea una página con el texto facilitado e incluye las etiquetas ne
 ------------ | -------------
 Ejercicio2 | [Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.](https://github.com/JorgeAndres1/Ejercicios-de-lenguaje-de-marca/blob/master/TEMA2/Ejercicio2.md)
 Ejercicio3 | [Usa el texto mostrado y dale el formato siguiendo las indicaciones](https://github.com/JorgeAndres1/Ejercicios-de-lenguaje-de-marca/blob/master/TEMA2/Ejercicio3.md)
+Ejercicio4 | [Crea una página html que muestre el siguiente aspecto](https://github.com/JorgeAndres1/Ejercicios-de-lenguaje-de-marca/blob/master/TEMA2/Ejercicio4.md)
+
