@@ -1,0 +1,26 @@
+#p1 {
+  border: 5px dotted;
+}
+#p2 {
+  border: 5px dashed;
+}
+#p3 {
+  border: 5px double;
+}
+#p4 {
+  border: 5px ridge;
+}
+
+
+#cabecera1 {
+  border: #2aff00 4px solid;
+}
+#cabecera2  {
+  border: red 4px solid;
+}
+#cabecera3  {
+  border: #c500ff 4px solid;
+}
+#cabecera4  {
+  border: #0064ff 4px solid;
+}
