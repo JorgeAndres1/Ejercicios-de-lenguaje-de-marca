@@ -1,0 +1,40 @@
+#p1 {
+  background-color:#FF0000;
+  color: blue;
+  font-family: courier;
+  text-align: left
+}
+#p2 {
+  background-color:#bdff00;
+  color: #d800ff;
+  font-family: courier;
+  text-align: center
+}
+#p3 {
+  background-color:#00ffe8;
+  color:#453717;
+  font-family: courier;
+  text-align: right
+}
+#p4 {
+  background-color:#04ff00;
+  color: red;
+  font-family: courier;
+  text-align: justify
+}
+
+
+
+
+#cabecera1 {
+	font-family: verdana;
+}
+#cabecera2  {
+	font-family: verdana;
+}
+#cabecera3  {
+	font-family: verdana;
+}
+#cabecera4  {
+	font-family: verdana;
+}
