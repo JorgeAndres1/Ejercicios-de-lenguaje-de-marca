@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Horario Escolar Extendido</title>
+</head>
+<body>
+<style> 
+th {
+  background-color:#f59500;
+}
+tr {
+  background-color:#00c4e3;
+}
+</style>
+
+<h1 align="center">Horario escolar</h1>
+
+    <table align="center" border="4" bordercolor="red"
+    cellpadding="10" cellspacing="20">
+      <tr>
+        <th >Hora</th><th>Lunes</th><th>Martes</th><th>Mi&eacute;rcoles</th>
+<th>Jueves</th><th>Viernes</th>
+</tr>
+<tr>
+<td>8-9</td><td>IMPSO</td><td>LMAR</td><td rowspan="2" align="center">GBD</td><td>GBD</td><td rowspan="2" align="center">PADRE</td>
+</tr>
+<tr>
+<td>9-10</td><td>PADRE</td><td>PADRE</td><td>LMAR</td>
+</tr>
+<tr>
+<td>10-11</td><td>LMAR</td><td>IMPSO</td><td>IMPSO</td><td>IMPSO</td><td>IMPSO</td>
+</tr>
+<tr>
+<td>11-11:30</td><td colspan="5" align="center">Recreo</td>
+</tr>
+<tr>
+<td>11:30-12:30</td><td>GBD</td><td>GBD</td><td>FOL</td><td>FHW</td><td>LMAR</td>
+</tr>
+<tr>
+<td>12:30-13:30</td><td>FHW</td><td>FHW</td><td>PADRE</td><td>PADRE</td><td>FOL</td>
+</tr>
+</table>
+</body>
+</html>
