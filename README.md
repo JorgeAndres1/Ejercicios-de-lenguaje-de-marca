@@ -20,6 +20,6 @@ Ejercicio10 | [Crea cuatro párrafos y rellena el contenido con el texto "Lorem 
 Ejercicio11 | [Crear 4 parrafos con margin y padding](TEMA2/Ejercicio11)
 Ejercicio12 | [Crear una tabla](TEMA2/Ejercicio12.html)
 Ejercicio13 | [Crear una tabla con el Horario de clase](TEMA2/Ejercicio13.html)
-Ejercicio14 | [Crear una tabla con items informaticos](TEMA2/Ejercicio14.html)
-Ejercicio15 | [Crear una tabla con el items mp3](TEMA2/Ejercicio15.html)
+Ejercicio14 | [Crear una tabla con items informaticos](TEMA2/Ejercicio14)
+Ejercicio15 | [Crear una tabla con el items mp3](TEMA2/Ejercicio15)
 Ejercicio12 | [Crear una tabla](TEMA2/Ejercici)
