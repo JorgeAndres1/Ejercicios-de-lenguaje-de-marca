@@ -1,0 +1,13 @@
+img.pat {
+	float:right;
+	width:100px;
+	height:100px;
+	margin-left:100px;
+}
+img.pat1 {
+	float:left;
+	width:100px;
+	height:100px;
+	margin-left:100px;
+}
+
