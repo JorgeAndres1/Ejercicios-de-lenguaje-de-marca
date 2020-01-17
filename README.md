@@ -26,3 +26,5 @@ Ejercicio16 | [imagen con posicionamiento flotante a izquierda y derecha junto a
 Ejercicio17 | [Muestra las tres imágenes mediante posicionamiento flotante.](TEMA2/Ejercicio17)
 Ejercicio18 | [Crea un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas.](TEMA2/Ejercicio18)
 Ejercicio19 | [IframeCrea una página que incluya una barra de menús](TEMA2/Ejercicio19.html)
+Ejercicio20| [Formularios](TEMA2/Ejercicio20.html)
+Ejercicio21 | [Append new controls to last exercise.](TEMA2/Ejercicio21.html)
