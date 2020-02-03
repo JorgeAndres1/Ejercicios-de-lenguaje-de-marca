@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+function web(web) {
+  var url;
+  if (web == 0) {
+    url = "https://www.w3schools.com/"
+  } else {
+    url = "https://uniwebsidad.com/"
+  }
+  document.getElementById('myImage').src = url;
+}
+</script>
+ <iframe id="myImage" ></iframe> 
+
+
+<p>
+<button type="button" onclick="web(1)">Uniwebsidad</button>
+<button type="button" onclick="web(0)">W3schools</button>
+</p>
+
+</body>
+</html>
