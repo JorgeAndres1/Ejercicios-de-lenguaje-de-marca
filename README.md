@@ -29,4 +29,4 @@ Ejercicio19 | [IframeCrea una página que incluya una barra de menús](TEMA2/Eje
 Ejercicio20| [Formularios](TEMA2/Ejercicio20.html)
 Ejercicio21 | [Append new controls to last exercise.](TEMA2/Ejercicio21.html)
 Ejercicio22 | [Website](TEMA2/Ejercicio22)
-Ejercicio1css | [Website](TEMA2/Ejercicio22)
+Ejercicio1css | [curriculum vitae](TEMA2/Ejercicio1css)
