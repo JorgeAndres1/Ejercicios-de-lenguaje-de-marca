@@ -17,7 +17,7 @@
       <address>direccion</address>
       <number>83321122</number>
       <e-mail>corre@outlook.es</e-mail>
-      <age>65</age>
+      <age>22</age>
       <Marital-Status estado="S"/>
    </contactos>
    <contactos>
@@ -25,7 +25,7 @@
       <address>direccion</address>
       <number>83321122</number>
       <e-mail>corre@outlook.es</e-mail>
-      <age>65</age>
+      <age>22</age>
       <Marital-Status estado="D"/>
    </contactos>
 </libreta>
