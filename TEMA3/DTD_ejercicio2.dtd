@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreta [
+  <!ELEMENT libreta  (contactos*)>
+  <!ELEMENT contactos (First_name, Last_name, address, number, e-mail+, company, age, Marital-Status)>
+ <!ELEMENT First_name (#PCDATA)>
+  <!ELEMENT Last_name (#PCDATA)>
+  <!ELEMENT address (street, no, zip, country)>
+  <!ELEMENT street (#PCDATA)>
+  <!ELEMENT no (#PCDATA)>
+  <!ELEMENT zip (#PCDATA)>
+  <!ELEMENT country (#PCDATA)>
+  <!ELEMENT number (#PCDATA)>
+  <!ELEMENT e-mail (#PCDATA)>
+  <!ELEMENT company (name, website)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT website (website_name, url)>
+  <!ELEMENT website_name (#PCDATA)>
+  <!ELEMENT url (#PCDATA)>
+  <!ELEMENT age (#PCDATA)>
+  <!ELEMENT Marital-Status EMPTY>
+    <!ATTLIST Marital-Status estado (C | S | V | D) #REQUIRED>
+]>
+
+<libreta>
+   <contactos>
+      <First_name>nombre</First_name>
+      <Last_name>apellidos</Last_name>
+      <address>
+          <street>calle</street>
+          <no>numero</no>
+          <zip>zip</zip>
+          <country>country</country>
+      </address>
+      <number>83321122</number>
+      <e-mail>corre@outlook.es</e-mail>
+      <e-mail>corre@outlook.com</e-mail>
+      <company>
+        <name>nombre</name>
+        <website>
+          <website_name>web</website_name>
+          <url>www.web.com</url>
+        </website>
+      </company>
+      <age>22</age>
+      <Marital-Status estado="C"/>
+   </contactos>
+      <contactos>
+      <First_name>nombre</First_name>
+      <Last_name>apellidos</Last_name>
+      <address>
+          <street>calle</street>
+          <no>numero</no>
+          <zip>zip</zip>
+          <country>country</country>
+      </address>
+      <number>83321122</number>
+      <e-mail>corre@outlook.es</e-mail>
+      <e-mail>corre@outlook.com</e-mail>
+      <company>
+        <name>nombre</name>
+        <website>
+          <website_name>web</website_name>
+          <url>www.web.com</url>
+        </website>
+      </company>
+      <age>22</age>
+      <Marital-Status estado="S"/>
+   </contactos>
+</libreta>
