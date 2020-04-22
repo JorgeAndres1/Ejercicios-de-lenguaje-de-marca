@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreta [
+  <!ELEMENT libreta (contactos*)>
+  <!ELEMENT contactos (name, address, number, e-mail, age, Marital-Status)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT address (#PCDATA)>
+  <!ELEMENT number (#PCDATA)>
+  <!ELEMENT e-mail (#PCDATA)>
+  <!ELEMENT age (#PCDATA)>
+  <!ELEMENT Marital-Status EMPTY>
+    <!ATTLIST Marital-Status estado (C | S | V | D) #REQUIRED>
+]>
+
+<libreta>
+   <contactos>
+      <name>nombre</name>
+      <address>direccion</address>
+      <number>83321122</number>
+      <e-mail>corre@outlook.es</e-mail>
+      <age>65</age>
+      <Marital-Status estado="S"/>
+   </contactos>
+   <contactos>
+      <name>nombre</name>
+      <address>direccion</address>
+      <number>83321122</number>
+      <e-mail>corre@outlook.es</e-mail>
+      <age>65</age>
+      <Marital-Status estado="D"/>
+   </contactos>
+</libreta>
